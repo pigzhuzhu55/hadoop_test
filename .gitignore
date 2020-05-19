@@ -1,0 +1,6 @@
+.idea
+
+# ignore Maven generated target folders
+target/
+
+/logs

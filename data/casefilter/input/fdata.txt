@@ -1,0 +1,11 @@
+Apr 15 10:04:42 hostapd: wlan0: STA 14:7D:C5:9E:84
+Apr 15 10:04:43 hostapd: wlan0: STA 14:7D:C5:9E:85
+Apr 15 10:04:44 hostapd: wlan0: STA 14:7D:C5:9E:86
+Apr 15 10:04:45 hostapd: wlan0: STA 14:7D:C5:9E:87
+Apr 15 10:04:46 hostapd: wlan0: STA 14:7D:C5:9E:88
+Apr 15 10:04:47 hostapd: wlan0: STA 14:7D:C5:9E:89
+Apr 15 10:04:48 hostapd: wlan0: STA 14:7D:C5:9E:14
+Apr 15 10:04:49 hostapd: wlan0: STA 14:7D:C5:9E:24
+Apr 15 10:04:52 hostapd: wlan0: STA 14:7D:C5:9E:34
+Apr 15 10:04:32 hostapd: wlan0: STA 14:7D:C5:9E:44
+Apr 15 10:04:22 hostapd: wlan0: STA 14:7D:C5:9E:54
