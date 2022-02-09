@@ -25,7 +25,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 
-        <hadoop.version>2.9.2</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
         <hbase-client.version>2.2.4</hbase-client.version>
         <spark.version>2.4.5</spark.version>
 
